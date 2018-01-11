@@ -1,4 +1,4 @@
-exports.getCurrentPartOfDay = function() {
+exports.getCurrent = function() {
   const currentHour = new Date().getHours();
 
   let partOfDay = "MORNING";
