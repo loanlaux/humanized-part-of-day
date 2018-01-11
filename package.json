@@ -1,0 +1,27 @@
+{
+  "name": "humanized-part-of-day",
+  "version": "1.0.0",
+  "description": "Super small utility that returns the current part of the day (morning, afternoon, evening).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loanlaux/humanized-part-of-day.git"
+  },
+  "keywords": [
+    "date",
+    "hour",
+    "part",
+    "day",
+    "human",
+    "natural"
+  ],
+  "author": "Loan Laux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loanlaux/humanized-part-of-day/issues"
+  },
+  "homepage": "https://github.com/loanlaux/humanized-part-of-day#readme"
+}
