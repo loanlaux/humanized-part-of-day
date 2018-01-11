@@ -11,7 +11,7 @@ npm install humanized-part-of-day
 Usage:
 
 ```
-const partOfDay = require("humanizedPartOfDay");
+const partOfDay = require("humanized-part-of-day");
 
 console.log(partOfDay.getCurrent()); // Prints `MORNING`, `AFTERNOON` or `EVENING` depending on current part of day
 ```
