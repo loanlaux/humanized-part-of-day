@@ -11,3 +11,4 @@ exports.getCurrentPartOfDay = function() {
   
   return partOfDay;
 }
+
